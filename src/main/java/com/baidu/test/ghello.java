@@ -5,5 +5,6 @@ package com.baidu.test;
 public class ghello {
   public static void main(String[] args) {
 	System.out.println("hello11");
+	System.out.println("hello22");
 }
 }
